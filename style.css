@@ -69,7 +69,7 @@ li.list-item > a:hover{
 }
 .header .banner {
     background: url(https://scontent.fsgn2-2.fna.fbcdn.net/v/t31.0-8/13221309_191769757883202_2895260317983609190_o.jpg?oh=cf412a0beca5da5e38678b2795065e0f&oe=5A351A48);
-    min-height: 770px;
+    height: 100vh;
     top: 262px;
     background-attachment: fixed;
     background-position: center;
